@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name: Placeholder" />
+
+    <TextView
+        android:id="@+id/textViewTotalRuns"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Total Runs: Placeholder" />
+
+    <TextView
+        android:id="@+id/textViewBattingAverage"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Batting Average: Placeholder" />
+
+
+
+    <TextView
+        android:id="@+id/textViewBowlingAverage"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bowling Average: Placeholder" />
+
+    <TextView
+        android:id="@+id/textViewEconomy"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Economy: Placeholder" />
+
+    <TextView
+        android:id="@+id/textViewWickets"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Wickets: Placeholder" />
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SportzInteractiveDemo</string>
+    <string name="fragment_home">Home</string>
+
+    <string name="captain_string">(c)</string>
+    <string name="wk_string">(w)</string>
+    <string name="captain_wicket_string">(c &amp; wk)</string>
+</resources>
